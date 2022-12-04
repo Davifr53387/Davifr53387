@@ -5,4 +5,4 @@
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=
 Davifr53387
-&show_icons=true&theme=radical)
+&show_icons=true&theme=dracula)
