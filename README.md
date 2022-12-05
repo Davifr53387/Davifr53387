@@ -6,3 +6,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 https://cdn.picrew.me/shareImg/org/202212/1771107_OjbeBnYg.png
+
+
+![Snake animation]https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
